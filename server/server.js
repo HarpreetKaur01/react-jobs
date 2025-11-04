@@ -36,8 +36,10 @@ app.use((req, res, next) => {
 
 app.get('/jobs/', async (req, res) => {
     // res.json({msg : "Welcome to the app"})
+
+    const limit = parseInt(req.query._limit) || 0;
     try {
-        const jobs = await Job.find()
+        const jobs = await Job.find().limit(limit);
         res.status(200).json(jobs);
     } catch (error) {
         console.log(error)

@@ -1,0 +1,172 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "description": "Lead front-end development using React. Mentor junior developers and deliver production quality UI components.",
+      "location": "Remote",
+      "salary": "$120K - $140K",
+      "company": {
+        "name": "AcmeSoft Labs",
+        "description": "A small team building experimental web apps for learning and prototyping.",
+        "contactEmail": "jobs@acmesoft.test",
+        "contactPhone": "000-111-0001"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Front-End Engineer (React)",
+      "type": "Full-Time",
+      "description": "Build responsive user interfaces and collaborate with product and backend teams to ship features.",
+      "location": "Toronto, ON",
+      "salary": "$90K - $105K",
+      "company": {
+        "name": "BluePine Studio",
+        "description": "Design focused agency creating MVPs and marketing sites.",
+        "contactEmail": "careers@bluepine.test",
+        "contactPhone": "000-111-0002"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Junior Front-End Developer",
+      "type": "Part-Time",
+      "description": "Work on UI bug fixes and small feature tasks while learning React best practices.",
+      "location": "Vancouver, BC",
+      "salary": "$40K - $55K",
+      "company": {
+        "name": "MapleByte",
+        "description": "Community driven projects and local tech initiatives.",
+        "contactEmail": "hello@maplebyte.test",
+        "contactPhone": "000-111-0003"
+      }
+    },
+    {
+      "id": "4",
+      "title": "React Native Mobile Developer",
+      "type": "Full-Time",
+      "description": "Develop cross platform mobile apps using React Native, optimize performance and deliver pixel perfect UI.",
+      "location": "Seattle, WA",
+      "salary": "$100K - $120K",
+      "company": {
+        "name": "CloudCarrot",
+        "description": "Mobile-first solutions for small businesses.",
+        "contactEmail": "mobile@cloudcarrot.test",
+        "contactPhone": "000-111-0004"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Full Stack MERN Developer",
+      "type": "Full-Time",
+      "description": "Work across the stack with MongoDB, Express, React, and Node to build internal tools and dashboards.",
+      "location": "Chicago, IL",
+      "salary": "$95K - $115K",
+      "company": {
+        "name": "NebulaWorks",
+        "description": "Building internal tooling and integrations for enterprise customers.",
+        "contactEmail": "talent@nebulaworks.test",
+        "contactPhone": "000-111-0005"
+      }
+    },
+    {
+      "id": "6",
+      "title": "UI/UX Front-End Developer",
+      "type": "Contract",
+      "description": "Implement designs from Figma into reusable React components and maintain a design system.",
+      "location": "Remote",
+      "salary": "$50/hr - $70/hr",
+      "company": {
+        "name": "PixelPatch",
+        "description": "Short term design and development contracts for agencies.",
+        "contactEmail": "contracts@pixelpatch.test",
+        "contactPhone": "000-111-0006"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Accessibility Front-End Engineer",
+      "type": "Full-Time",
+      "description": "Improve accessibility across the product, run audits, and implement ARIA best practices.",
+      "location": "Boston, MA",
+      "salary": "$85K - $100K",
+      "company": {
+        "name": "Inclusive Labs",
+        "description": "Focused on making the web accessible for everyone.",
+        "contactEmail": "access@inclusivelabs.test",
+        "contactPhone": "000-111-0007"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Front-End Performance Engineer",
+      "type": "Full-Time",
+      "description": "Optimize page load and runtime performance, set up performance budgets and monitoring.",
+      "location": "Austin, TX",
+      "salary": "$110K - $130K",
+      "company": {
+        "name": "Speedster Inc",
+        "description": "Performance consulting and monitoring tools.",
+        "contactEmail": "apply@speedster.test",
+        "contactPhone": "000-111-0008"
+      }
+    },
+    {
+      "id": "9",
+      "title": "React Developer - Intern",
+      "type": "Internship",
+      "description": "3 month internship to support feature development and QA. Good learning opportunity.",
+      "location": "Remote",
+      "salary": "$18/hr - $22/hr",
+      "company": {
+        "name": "StarterLabs",
+        "description": "Early stage projects and student internships.",
+        "contactEmail": "interns@starterlabs.test",
+        "contactPhone": "000-111-0009"
+      }
+    },
+    {
+      "id": "10",
+      "title": "Head of Front-End",
+      "type": "Full-Time",
+      "description": "Lead a team of front-end engineers, set technical direction and own front-end architecture.",
+      "location": "New York, NY",
+      "salary": "$150K - $180K",
+      "company": {
+        "name": "OrbitGate",
+        "description": "Scaling SaaS platform serving small businesses.",
+        "contactEmail": "leadership@orbitgate.test",
+        "contactPhone": "000-111-0010"
+      }
+    },
+    {
+      "id": "11",
+      "title": "Contract React Developer",
+      "type": "Contract",
+      "description": "3 month contract to ship a high priority feature. Must be comfortable with legacy code and quick debugging.",
+      "location": "San Diego, CA",
+      "salary": "$60/hr - $85/hr",
+      "company": {
+        "name": "Shoreline Labs",
+        "description": "Short term engineering engagements for product teams.",
+        "contactEmail": "contracts@shorelinelabs.test",
+        "contactPhone": "000-111-0011"
+      }
+    },
+    {
+      "id": "12",
+      "title": "Frontend Engineer - Design Systems",
+      "type": "Full-Time",
+      "description": "Own the component library, document patterns, and help teams adopt design system components.",
+      "location": "London, UK",
+      "salary": "£70K - £90K",
+      "company": {
+        "name": "UnionForge",
+        "description": "Design systems and component libraries for distributed teams.",
+        "contactEmail": "design@unionforge.test",
+        "contactPhone": "+44-000-111-0012"
+      }
+    }
+  ]
+}
